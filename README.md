@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danxx26hub
 - 👀 I’m interested in Python, Python concurrency, Asynch Python, Data structures, API's, Flask
-- 🌱 I’m currently learning Selenium framework.
+- 🌱 I’m APscheduler and Office365-python-rest-client
 - 📫 How to reach me ... danxx26@gmail.com
 
 <!---
