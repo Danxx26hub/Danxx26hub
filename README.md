@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danxx26hub
 - 👀 I’m interested in Python, Python concurrency, Asynch Python, Data structures, API's, Flask
-- 🌱 I’m APscheduler and Office365-python-rest-client
+- 🌱 I’m using Flask, APscheduler, Dash and Office365-python-rest-client to solve problems!
 - 📫 How to reach me ... danxx26@gmail.com
 
 <!---
