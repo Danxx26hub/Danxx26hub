@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Danxx26hub
-- 👀 I’m interested in Python, Python concurrency, Asynch Python, Data structures, API's, Flask
-- 🌱 I’m using Flask, APscheduler, Dash and Office365-python-rest-client to solve problems!
+- 👀 I’m interested in Python, Python concurrency, Asynch Python, Data structures, API's, Flask \
+- ML, Parallel computing, Cloud Computing, 
+- 🌱 I’m using Python, Flask, APscheduler, Dash, Pandas, DuckDB, Polars and Office365-python-rest-client to solve problems!
 - 📫 How to reach me ... danxx26@gmail.com
 
 <!---
